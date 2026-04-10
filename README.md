@@ -3,7 +3,7 @@ First-year student at IIIT Nagpur passionate about Frontend & Backend Developmen
 Currently exploring different frameworks and aiming to contribute to open source.<br>
 Competitive programming keeps me sharp, while this space is where I build, learn, and chill.<br><br>
 
-Fun Fact: I'm a full-time Competitive Programmer — this is my chill place 😌
+Fun Fact: I'm a full-time Competitive Programmer — this is my chill place.
 
 
 ## 🌐 Socials:
