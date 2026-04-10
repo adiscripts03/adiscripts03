@@ -1,8 +1,8 @@
 <h1>About Me -></h1><br>
 
-<h2>First-year student at IIIT Nagpur passionate about Frontend & Backend Development.</h2>
-<h2>Currently exploring different frameworks and aiming to contribute to open source.</h2>
-<h2>Competitive programming keeps me sharp, while this space is where I build, learn, and chill.</h2><br>
+<h3>First-year student at IIIT Nagpur passionate about Frontend & Backend Development.</h3>
+<h3>Currently exploring different frameworks and aiming to contribute to open source.</h3>
+<h3>Competitive programming keeps me sharp, while this space is where I build, learn, and chill.</h3><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mejustaditya03) 
