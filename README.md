@@ -1,6 +1,6 @@
 <h1>About Me -></h1><br>
 
-<h3>First-year student at IIIT Nagpur passionate about Frontend & Backend Development.</h3>
+<h3>Sophomore at IIIT Nagpur passionate about Frontend & Backend Development.</h3>
 <h3>Currently exploring different frameworks and aiming to contribute to open source.</h3>
 <h3>Competitive programming keeps me sharp, while this space is where I build, learn, and chill.</h3><br>
 
