@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6C37,100:1DA1F2&height=220&section=header&text=Aditya%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Building%20things%20that%20don't%20break%20(often)&descAlignY=55&descSize=18"/>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDl6OTNqZmFwcmJ3NzRlcTdtb25taGRiaGQ1eWIzNTluY2dtNmhvNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lcwrrsfs4Px6w/200.webp" width="260"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnB0endzdnpxd240emQ2OXR2aDRyMWx6MTdlcGU0emFvOXlkZXVjYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AWFe0aae7lkCMPTbtg/giphy.webp" width="260"/>
 
 <br/>
 
@@ -61,10 +61,6 @@ fun_fact: my code works, I don't know why, please don't touch it
 </div>
 
 <div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=adiscripts03&theme=radical&no-frame=true&row=1&column=7"/>
 
 </div>
 
