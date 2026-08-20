@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6C37,100:1DA1F2&height=220&section=header&text=Aditya%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Building%20things%20that%20don't%20break%20(often)&descAlignY=55&descSize=18"/>
 
-<img src="PASTE_YOUR_GAME_GIF_LINK_HERE" width="260"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDl6OTNqZmFwcmJ3NzRlcTdtb25taGRiaGQ1eWIzNTluY2dtNmhvNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lcwrrsfs4Px6w/200.webp" width="260"/>
 
 <br/>
 
