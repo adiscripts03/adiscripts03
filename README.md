@@ -3,16 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aditya%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20IIIT%20Nagpur&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
-<!-- ═════════════════ 2. PHOTO ═════════════════ -->
-<img src="./assets/avatar.jpg" width="150" height="150" style="border-radius:50%; border: 3px solid #30363d;" alt="Aditya Singh"/>
-
-<br/><br/>
-
-<!-- ═════════════════ 3. TYPING TAGLINES ═════════════════ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=388BFD&center=true&vCenter=true&width=700&lines=Always+building+Always+shipping;Scalable+Systems+are+my+Priority" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <!-- Social badges -->
@@ -28,7 +18,7 @@
 
 ---
 
-<!-- ═════════════════ 4. ABOUT ME ═════════════════ -->
+<!-- ═════════════════ 2. ABOUT ME ═════════════════ -->
 ## About Me
 
 ```js
@@ -44,7 +34,7 @@ const me = {
 
 ---
 
-<!-- ═════════════════ 5. TECH STACK ═════════════════ -->
+<!-- ═════════════════ 3. TECH STACK ═════════════════ -->
 ## Tech Stack
 
 ### Languages
@@ -98,7 +88,7 @@ const me = {
 
 ---
 
-<!-- ═════════════════ 6. GITHUB STATS ═════════════════ -->
+<!-- ═════════════════ 4. GITHUB STATS ═════════════════ -->
 ## GitHub Stats
 
 <div align="center">
@@ -123,7 +113,7 @@ const me = {
 
 ---
 
-<!-- ═════════════════ 7. FEATURED PROJECTS ═════════════════ -->
+<!-- ═════════════════ 5. FEATURED PROJECTS ═════════════════ -->
 ## Featured Projects
 
 <div align="center">
@@ -146,7 +136,7 @@ const me = {
 
 ---
 
-<!-- ═════════════════ 8. DEV QUOTE ═════════════════ -->
+<!-- ═════════════════ 6. DEV QUOTE ═════════════════ -->
 ## Quote of the Day
 
 <div align="center">
@@ -155,7 +145,7 @@ const me = {
 
 ---
 
-<!-- ═════════════════ 9. FOOTER ═════════════════ -->
+<!-- ═════════════════ 7. FOOTER ═════════════════ -->
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=adiscripts03&label=Visitors&color=ff69b4&style=for-the-badge" alt="profile views"/>
