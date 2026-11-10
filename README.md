@@ -3,6 +3,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aditya%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20IIIT%20Nagpur&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
+<br/><br/>
+
+<img src="./assets/pilot-cat.png" width="220" alt="Fighter Jet Cat"/>
+
 </div>
 
 ---
