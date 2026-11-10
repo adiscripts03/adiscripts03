@@ -3,17 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Aditya%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20IIIT%20Nagpur&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
-<br/>
-
-<!-- Social badges -->
-<a href="https://www.linkedin.com/in/aditya-singh-80827935a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/_AdityaSingh_03"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.instagram.com/mejustaditya03/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/codekrunbachha_xD"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-<a href="https://adityasingh-portfolio-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="https://leetcode.com/u/Nocode03/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="https://www.codechef.com/users/add_it_ya_code"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-
 </div>
 
 ---
@@ -148,13 +137,22 @@ const me = {
 <!-- ═════════════════ 7. FOOTER ═════════════════ -->
 <div align="center">
 
+<!-- Social badges -->
+<a href="https://www.linkedin.com/in/aditya-singh-80827935a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/_AdityaSingh_03"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/mejustaditya03/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/codekrunbachha_xD"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://adityasingh-portfolio-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Nocode03/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.codechef.com/users/add_it_ya_code"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=adiscripts03&label=Visitors&color=ff69b4&style=for-the-badge" alt="profile views"/>
 <a href="https://github.com/adiscripts03?tab=followers"><img src="https://img.shields.io/github/followers/adiscripts03?label=Followers&style=for-the-badge&logo=github&color=8957e5" alt="followers"/></a>
 <a href="https://github.com/adiscripts03?tab=stars"><img src="https://img.shields.io/github/stars/adiscripts03?style=for-the-badge&logo=github&color=ffd33d&label=Stars" alt="stars"/></a>
 
 <br/><br/>
-
-<sub>Last updated automatically • Built by <a href="https://github.com/adiscripts03">Aditya Singh</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
 
