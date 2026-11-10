@@ -10,7 +10,7 @@
 
 <!-- ═════════════════ 3. TYPING TAGLINES ═════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Always+building+Always+shipping;Scalable+Systems+are+my+Priority" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=388BFD&center=true&vCenter=true&width=700&lines=Always+building+Always+shipping;Scalable+Systems+are+my+Priority" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -123,16 +123,7 @@ const me = {
 
 ---
 
-<!-- ═════════════════ 7. CONTRIBUTION SNAKE ═════════════════ -->
-## Contribution Snake
-
-<div align="center">
-  <img src="./assets/github-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</div>
-
----
-
-<!-- ═════════════════ 8. FEATURED PROJECTS ═════════════════ -->
+<!-- ═════════════════ 7. FEATURED PROJECTS ═════════════════ -->
 ## Featured Projects
 
 <div align="center">
@@ -155,7 +146,7 @@ const me = {
 
 ---
 
-<!-- ═════════════════ 9. DEV QUOTE ═════════════════ -->
+<!-- ═════════════════ 8. DEV QUOTE ═════════════════ -->
 ## Quote of the Day
 
 <div align="center">
@@ -164,7 +155,7 @@ const me = {
 
 ---
 
-<!-- ═════════════════ 10. FOOTER ═════════════════ -->
+<!-- ═════════════════ 9. FOOTER ═════════════════ -->
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=adiscripts03&label=Visitors&color=ff69b4&style=for-the-badge" alt="profile views"/>
